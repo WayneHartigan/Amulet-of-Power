@@ -1,0 +1,88 @@
+It is told that the Amulet Of Power holds a secret and sacred power. There are many tales and folklore about the amulets power, yet nobody knows for sure what mysterious powers this amulet holds. The Battle Mages of Ivoria lead by Agnar White Beard are sworn protectors of the amulet as they state the power of the amulet is too strong for any race in the world of Efamar. For the last 50 years an all out battle has been raging the lands of Efamar. The Knights Of The Grey Order stated that the power of the amulet shouldn’t go to waste and its power should be used for military dominance and in turn peace. The Grey Orders General Cydare The Great, demanded the handing over of the amulet to the Grey Order. When the Battle Mages refused, the Grey Order attacked the Mages beginning a war that to this day rages on. There has been many casualties on both sides of the war yet neither side is willing to give up for their ideals and the amulet. A secret special forces group of spies were sent out by the Grey Order to retrieve the amulet from the Mages military camp. Under the blanket of the night sky the spies infiltrated the camp killing Agnar and retrieving the amulet without raising an alarm. All tides of war had turned on the success mission of the spies until they got ambushed by a group of Goblins, the surprising ambush alongside the shear number of the Goblins wiped out the party and stealing the precious cargo on board. You play a young warrior hired by the Grey Order to retrieve the amulet from the goblins. The Grey Order has heard about your skills in close combat and the ability to move undetected. With the retrieval of the amulet many riches are promised, yet will you choose riches. Or the amulet? The choices are yours, the story is not yet written. Pathe your own path on this adventure. 
+After weeks of tracking, %(player_name)s finally caught up with the stolen cargo cart. 
+The cart is protected by well equipped goblin warriors.
+ Analysing the situation %(player_name)s decides he has two options
+Your stealth skills prove valuable as you managed to attack the party undetected.
+After killing a large number of the goblin warriors, they finally club you down, killing %(player_name)s
+%(player_name)s continues to follow the Goblins until they stop at a cave on the outskirts of the forest. 
+The Goblins set up camp for the night as the sun slowly creeps behind the mountains.
+A Ogre Guard emerges from the cave and stands guard
+Human slaves are seen shackled to steel ball and chain and forced to chop down trees by the goblins.
+The delivering party enter the cave with the cargo. %(player_name)s decides he has two options. 
+%(player_name)s bombs the camp killing all the goblins, but also the slaves, while the ogre protector is set on fire he swings his club knocking %(player_name)s out unconscious before the he collapses and dies.
+%(player_name)s approaches the camp walking along the tree line of the forest.
+%(player_name)s waits for a perfect time window.
+When the Ogre guard gets distracted by a running away slave %(player_name)s sneaks into the cave undetected. 
+The cave is dark and low lit, the cave walls are grimey and wet, disgusting living conditions for anyone but a goblin.
+%(player_name)s see's a large cage of human slaves, the goblin guard is asleep.
+%(player_name)s notices the keys to the cage are dangling from the goblins neck on a wire that seems to be creating a necklace.
+%(player_name)s approaches the goblin and silent starts lifting the necklace.
+Undetected you take the necklace off. A goblin warrior enters the room shouting at you.
+The sleepy goblin guard wakes up from the noise and tackles you, picking up a rock and knocking you out.
+%(player_name)s disregards the slaves and proceeds into the next section of the cave.
+Inside, find a green tent, surprisingly unguarded you decide to enter it. Inside you find the amulet.
+%(player_name)s lifts the amulet and places it into his pouch.
+Swiftly %(player_name)s takes out his dagger and slits the throat of a goblin sneaking up on him, leaps over the lifeless body of the goblin round house kicking the goblin behind him, attacking him in the face.
+%(player_name)s proceeds to run forward knowing he’s been discovered
+Running out of the cave, now in the open, %(player_name)s realises he has run into another problem
+You wake up, A mysterious hooded figure speaks with a faint monotone voice. %(player_name)s opens his eyes dazed and confused.
+You got a serious knock to the head friend! You’re lucky I got to you, or you would be the goblins next feast, They love human meat.
+You Notice the elephant sigil, this man is one of the Knights of Ivoria.
+Thank you for your bravery, I can’t remember much, my head is pounding. Did you come across an Amulet with a ruby jewel.
+Ahh the Amulet of Power, strange our paths have crossed. No unfortunately i had to teleport us out of there as soon as i could get a hold of you.
+My power is not great enough to fight a goblin troop of that size.
+Let me introduce myself, My name is Volmar
+I’m a battle mage from the land of Ivoria. We are the true protectors of the amulet.
+I've been Following my dark orb which will lead me to the amulet for some weeks.
+I was hoping to track down the whereabouts of the amulet and call for backup from the Mages.
+The Battle Mages of Ivoria have spent generations researching and understanding the amulet.
+The legend says the chosen one can wear the amulet and receive powers unimaginable to mear humans. If an unworthy person wears the amulet, There would be grave consequences.
+You seem well able to handle yourself in a fight after you get this healing potion into you, will you help me on my quest?
+I know who you are Ivorian, you cannot fool me.
+The mage flees and leaves behind a toxic gas which was too strong for you to escape.
+Sorry, mage, I don’t have an interest in your tale.
+I’m a sword for hire and I have my own mission to track these goblins and retrieve the stolen loot
+As I see our paths have crossed and we have the same mission, you can help me on my quest, or we can part ways.
+Being short with you is not my desire Mage, but this mishap has set me back and time is money my friend.
+The goblins have it, we must find them now, and retrieve the amulet before they use it for the destruction of mankind
+If the goblins can use the power of the amulet this can potentially cause a bigger mess than we already have.
+Please mage, I owe you my life, but let me track these scum and stop a disaster.
+Well %(player_name)s, I believe our paths have really crossed for a reason. I will help you find the amulet.
+Volmar whispers in a foreign language you cannot comprehend
+Take this orb a light will shine the direction of the amulet, follow the light and you will soon find the amulet.
+I have placed a tracking spell on the orb as soon as the orb is within close range of the amulet it will send me a signal.
+Thank you mage for all you have done.
+After days of traveling, %(player_name)s finally finds the goblin lair.
+%(player_name)s enters through as it is unguarded, as he get further in the cave he can hear the sounds for a giant amount of goblins
+He enters a giant opening and below he sees a goblin celebration.
+We’ve done it! Let us celebrate tonight, and tomorrow we get our revenge and slaughter the humans
+%(player_name)s fights well, due to the numbers of goblins protecting the amulet and their king, %(player_name)s get’s struck down and dies.
+Bad choice
+STOP GOBLIN KING!!!!! If you wear the amulet, it will kill you!
+The amulet won’t deliver you the promised power unless you are the chosen one.
+Hear my plea and don’t wear it!
+Petty human, im the goblin king the i fought to have this position, i am the chosen one.
+Your lies won’t stop me from the power I deserve. Is this your masterful plan to stop me?
+HAH! No HUMAN! I SHALL CRUSH YOU WITH THE AMULETS POWER, I SHALL BURN YOUR KIND WITH THE FIRES OF HELL
+NOW IS THE TIME MY MINIONS TO END THIS WAR!!!
+It wouldn’t be smart to go in detected.
+I’ll use the shadows to my advantage.
+Good job my followers, with this successful attack on The Grey Order we have finally retrieved the amulet
+Bring me the amulet, it’s time for me to wear it, gain its power and become the god that I was destined to be.
+%(player_name)s attacks the goblins, killing many, yet the goblin king is left untouched due to the sheer number of goblins protecting the king.
+No followers, leave him. HE SHALL BE THE FIRST VICTIM OF THE AMULETS POWER!!
+%(player_name)s remains in the shadows, watching the Goblin King planning his next move.
+WE WILL NO LONGER BE LOOKED AT AS FEEBLE CREATURES. WITH THE AMULET WE WILL BE CONSIDERED GODS
+THE SUPERIOR SPECIES, ALL WILL FEAR US. NO MORE LIVING IN CAVES AND SEWERS. WE SHALL LIVE LIKE ROYALTY NOW!”
+YES, I CAN FEEL THE POWER! FLOWING THROUGH MY BLOOD. 
+YEEEEESSSSS! ULTIMATE POWER!!!!!!!!
+HAHAHAHAHAHAHAHA!!!!
+HAHAHAHAHAH!
+HA
+Something doesnt feel right
+The power of the amulet was too much for the Goblin King to handle
+The power overwhelmed his body, the power exploding from inside his body
+Run, it must be is the Ivorian Grand Mage, i've never seen such power
+As the goblins leave the lair, %(player_name)s approcahes the amulet
+The Amulet starts to glow as %(player_name)s picks it up
+What would you like to do with your life?
